@@ -846,7 +846,7 @@
             <dependency>
                 <groupId>com.amazonaws</groupId>
                 <artifactId>amazon-kinesis-client</artifactId>
-                <version>1.6.3</version>
+                <version>1.14.7</version>
                 <exclusions>
                     <exclusion>
                         <groupId>commons-logging</groupId>

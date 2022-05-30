@@ -59,7 +59,7 @@
         <dep.drift.version>1.14</dep.drift.version>
         <dep.scribejava.version>6.9.0</dep.scribejava.version>
         <dep.tempto.version>187</dep.tempto.version>
-        <dep.gcs.version>2.0.0</dep.gcs.version>
+        <dep.gcs.version>hadoop2-2.1.8</dep.gcs.version>
         <dep.errorprone.version>2.10.0</dep.errorprone.version>
         <dep.testcontainers.version>1.16.3</dep.testcontainers.version>
         <dep.docker-java.version>3.2.12</dep.docker-java.version>

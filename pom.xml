@@ -51,7 +51,7 @@
         <dep.antlr.version>4.9.2</dep.antlr.version>
         <dep.airlift.version>214</dep.airlift.version>
         <dep.packaging.version>${dep.airlift.version}</dep.packaging.version>
-        <dep.aws-sdk.version>1.12.85</dep.aws-sdk.version>
+        <dep.aws-sdk.version>1.12.377</dep.aws-sdk.version>
         <dep.okhttp.version>3.14.9</dep.okhttp.version>
         <dep.joda.version>2.10.13</dep.joda.version>
         <dep.jsonwebtoken.version>0.11.2</dep.jsonwebtoken.version>
@@ -63,7 +63,7 @@
         <dep.errorprone.version>2.10.0</dep.errorprone.version>
         <dep.testcontainers.version>1.16.3</dep.testcontainers.version>
         <dep.docker-java.version>3.2.12</dep.docker-java.version>
-        <dep.coral.version>1.0.121</dep.coral.version>
+        <dep.coral.version>2.0.115</dep.coral.version>
         <dep.confluent.version>5.5.2</dep.confluent.version>
 
         <dep.docker.images.version>53</dep.docker.images.version>
